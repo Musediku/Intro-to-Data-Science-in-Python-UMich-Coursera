@@ -15,8 +15,6 @@ The course introduces fundamental data science concepts using the Python program
 ## 📂 Contents
 
 Week-1/
-├── Data
-
 ├── Assignment 1.ipynb
 
 Week-2/
@@ -28,21 +26,18 @@ Week-3/
 Week-4/
 ├── Assignment 4.ipynb
 
-markdown
-Copy
-Edit
 
-## 🛠️ Tools Used
+## Tools Used
 
 - Python 3.x  
 - Jupyter Notebook  
 - pandas, numpy  
 
-## 📝 Disclaimer
+## Disclaimer
 
 These solutions are for educational purposes only and reflect my personal learning process. Please do not submit them as your own work if you're taking the course.
 
 ---
 
-📌 **Author:** [@beyond_numbers](https://github.com/Musediku)  
-📬 **Medium Blog:** [https://medium.com/@beyond_numbers](https://medium.com/@beyond_numbers)
+**Author:** [@beyond_numbers](https://github.com/Musediku)  
+**Medium Blog:** [https://medium.com/@beyond_numbers](https://medium.com/@beyond_numbers)
